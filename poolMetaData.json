@@ -1,6 +1,7 @@
 {
-"name": "Wild Pool",
-"description": "WILD is for the Wildlife - Secure and reliable Stake Pool which donates rewards towards wildlife conservation.",
-"ticker": "WILD",
-"homepage": "https://wildstakingpool.com"
+  "name": "Wild Pool",
+  "description": "Delegate to WILD stake pool to earn ADA returns with 50% of the margin fee donated towards Wildlife Conservation every month",
+  "ticker": "WILD",
+  "homepage": "https://www.wildstakingpool.com",
+  "extended": "https://raw.githubusercontent.com/decisiverobot/wildstakepool/main/extended-metadata.json"
 }
