@@ -1,6 +1,6 @@
 {
 "name": "Wild Pool",
-"description": "Delegate to WILD stake pool to earn ADA returns with 50% of the margin fee donated towards Wildlife Conservation",
+"description": "WILD supports Wildlife Conservation. 50% of pool operator margins donated to Wildlife Conservation projects.",
 "ticker": "WILD",
 "homepage": "https://wildstakingpool.com",
 "extended": "https://raw.githubusercontent.com/decisiverobot/wildstakepool/main/extended-metadata.json"
